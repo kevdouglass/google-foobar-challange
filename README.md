@@ -1,4 +1,4 @@
-# google-foobar-challange
+# google-foobar-challenge
 While researching Python's Pandas dataframe documentation for data science &amp; machine learning related keywords I ran accross this challange from Google.  I have heard that once completed, one could potentially be contacted for an interview with Google. Please note there are others out there that say they finished and were not contacted. I guess we'll find out :) 
 
 
@@ -15,17 +15,17 @@ Languages
 To provide a Python solution, edit solution.py To provide a Java solution, edit solution.java
 
 
-####################################################################################################################################################################################################################################################
+#######################################################################
 Test cases:
-__________________________
+________________________________________________________________________
 Inputs: n:int = 0
->> Solution.solution(n)
-Output: (string) "23571"
+>>> Solution.solution(n)
+OUTPUT: (string) "23571"
 
 Inputs: n:int = 3 
->> Solution.solution(n)
-Output: (string) "71113"
-______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+>>> Solution.solution(n)
+OUTPUT: (string) "71113"
+________________________________________________________________________
 Use verify [file] to test your solution and see how it does. When you are finished editing your code, use submit [file] to submit your answer. If your solution passes the test cases, it will be removed from your home folder.
 
 '''
